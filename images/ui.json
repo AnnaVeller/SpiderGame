@@ -280,9 +280,29 @@
         "h": 96
       }
     },
-    "sound_off.png": {
+    "icon_spades.png": {
       "frame": {
         "x": 482,
+        "y": 729,
+        "w": 82,
+        "h": 88
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 82,
+        "h": 88
+      },
+      "sourceSize": {
+        "w": 82,
+        "h": 88
+      }
+    },
+    "sound_off.png": {
+      "frame": {
+        "x": 566,
         "y": 729,
         "w": 96,
         "h": 96
@@ -302,7 +322,7 @@
     },
     "sound_on.png": {
       "frame": {
-        "x": 580,
+        "x": 664,
         "y": 729,
         "w": 96,
         "h": 96
@@ -322,7 +342,7 @@
     },
     "star.png": {
       "frame": {
-        "x": 678,
+        "x": 762,
         "y": 729,
         "w": 125,
         "h": 125
